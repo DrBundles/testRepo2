@@ -1,2 +1,4 @@
 Hi there
-gonna be
+gonna be, a conflict
+
+no conflict here
